@@ -1,0 +1,2 @@
+Monitor 1  Monitoare 321 1 Monitor.descriere
+Calculator 2  Calculatoare 3122 23 Calculator.descriere
